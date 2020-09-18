@@ -1,0 +1,11 @@
+Flask_Script==2.0.6
+Flask==1.1.1
+Flask_Login==0.5.0
+Flask_SQLAlchemy==2.4.1
+Flask_Cors==3.0.8
+Flask-MQTT==1.0.5
+paho-mqtt==1.5.0
+Flask-SocketIo
+uWSGI==2.0.19
+gevent
+Flask-uWSGI-WebSocket
